@@ -18,7 +18,7 @@ Enlaces a los perfiles de GitHub de alumnos, alumnas y profesores del Centro Pú
 * [Giove Meschian, Giovanni](https://github.com/TheRealGGIOVI)
 * [Godino Wallace, Luis](https://github.com/Luisito2312)
 * [Jiménez Santiago, Adrián](https://github.com/AdrianJS2009)
-* [Márquez Córdoba, David]
+* [Márquez Córdoba, David](https://github.com/davidmarquezcordoba)
 * [Molina Meléndez, José](https://github.com/Jmolmel)
 * [Plaza Rueda, Miguel Ángel]
 * [Rodríguez Lara, Christian](https://github.com/Chriistiiaann)
