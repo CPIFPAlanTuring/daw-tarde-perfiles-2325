@@ -11,7 +11,7 @@ Enlaces a los perfiles de GitHub de alumnos, alumnas y profesores del Centro Pú
 * [Barrionuevo Rosado, Alejandro](https://github.com/Alejandro-BR)
 * [Bravo Rueda, Antonio Jesús](https://github.com/antoniobr4)
 * [Cabello Rueda, Francisco J.](https://github.com/FranciscoCabelloRueda)
-* [Capote Molina, Enrique]
+* [Capote Molina, Enrique](https://github.com/Enriiquecm)
 * [Colomer, Bárbara Palmira](https://github.com/bcolomer)
 * [García Alcalá, Miguel](https://github.com/miguelga2004)
 * [Giove Meschian, Giovanni](https://github.com/TheRealGGIOVI)
