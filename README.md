@@ -1,6 +1,6 @@
 # Enlaces a los perfiles de GitHub de alumnos, alumnas y profesores. Promoción 2023 - 2025.
 
-Enlaces a los perfiles de GitHub de alumnos, alumnas y profesores del Centro Público Integrado de Formación Profesional Alan Turing de la promoción 2023 - 2025.
+Enlaces a los perfiles de GitHub de alumnos, alumnas y profesores del Centro Público Integrado de Formación Profesional Alan Turing de la promoción 2023 - 2025 del CFGS Desarrollo de Aplicaciones Web (turno Tarde)
 
 ## Profesor
 
